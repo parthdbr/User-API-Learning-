@@ -1,0 +1,9 @@
+swagger:
+  enable: true
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      database: pd
+      port: 27017
